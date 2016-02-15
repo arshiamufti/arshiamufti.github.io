@@ -1,5 +1,5 @@
 
-This uses the [Balzac](https://github.com/ColeTownsend/Balzac-for-Jekyll) for [Jekyll](http://jekyllrb.com) which is forked from [minimal mistakes](http://mademistakes.com).
+This uses [Balzac](https://github.com/ColeTownsend/Balzac-for-Jekyll) for [Jekyll](http://jekyllrb.com) which is forked from [minimal mistakes](http://mademistakes.com).
 
 ## Basic Setup
 
