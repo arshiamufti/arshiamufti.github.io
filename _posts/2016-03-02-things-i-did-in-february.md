@@ -4,6 +4,7 @@ title: "Things I Did in February"
 description: "Michigan, Port Elgin, Boston, and getting familiar with Scrooge."
 category: articles
 tags: [february, 2016, boston, michigan, port elgin]
+comments: true
 ---
 
 ## MHacks
