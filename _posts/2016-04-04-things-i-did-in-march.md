@@ -36,4 +36,5 @@ Juhina sent me physical ARCs to review! It’s ironic and sad how I’m actually
 * Met the wonderful [Stephanie Morillo](https://twitter.com/radiomorillo?lang=en){:target="_blank"}! I tagged along with some of the WiCS committee to get brunch with her. Three hours of delightful conversation and salmon ensued.
 * Watched Zootopia. Twice. 10/10.
 * Got my schedule for Spring 2016. I am not the happiest because Quest thinks I’m too young to take CO 380. Like that’s going to stop me.
-
+* I miss Taylor, but Spotify has simplified my life.
+<center><iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aarshia__%3Aplaylist%3A46ePgMhYsAufyFruxeYj3a" width="300" height="420" frameborder="5" allowtransparency="false"></iframe></center>
