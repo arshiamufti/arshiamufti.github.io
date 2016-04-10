@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: title_page_post
 permalink: /about/index.html
 title: About Me
 tags: [about, Jekyll, theme, responsive]
