@@ -6,7 +6,7 @@ tags: [about, Jekyll, theme, responsive]
 image:
   feature: soft-trees.jpg
 ---
-I study computer science at the [University of Waterloo](https://uwaterloo.ca/){:target="_blank"}, in Waterloo, Canada. It's quite cold here. Here are some things that are important to me.
+I study computer science at the [University of Waterloo](https://uwaterloo.ca/){:target="_blank"}, in Waterloo, Canada. It is quite cold here. Here are some things that are important to me.
 
 ### Education and Technology
 
