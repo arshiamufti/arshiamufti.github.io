@@ -14,7 +14,7 @@ Both technology and the current education systems have a long way to go before t
 
 ### Reading and writing.
 
-Reading and writing is a huge part of my life. I "wrote" my first book when I was nine and got carried away by an english homework assignment. For most of my middle school life, I tried---and failed---to break the school library's one-book-per-week policy. I write on [Medium](https://medium.com/@arshia__){:target="_blank"}, occasionally [LiveJournal](http://arshia-mufti.livejournal.com/){:target="_blank"}, and review books for [Maji Bookshelf](http://majibookshelf.blogspot.ca/){:target="_blank"}. Some of my favourite authors are Frances H. Burnett, L. M. Montgomery, Enid Blyton, Melina Marchetta, Megan McAfferty, Markus Zusak, and J. K. Rowling.
+Reading and writing is a huge part of my life. I "wrote" my first book when I was nine and got carried away by an english homework assignment. For most of my middle school life, I tried---and failed---to break the school library's one-book-per-week policy. I write on [Medium](https://medium.com/@arshia__){:target="_blank"}, occasionally [LiveJournal](http://arshia-mufti.livejournal.com/){:target="_blank"}, and review books for [Maji Bookshelf](http://majibookshelf.blogspot.ca/){:target="_blank"}. Some of my favourite authors are Frances H. Burnett, L. M. Montgomery, Enid Blyton, Melina Marchetta, Megan McAfferty, Markus Zusak, Sarah J. Maas, and J. K. Rowling.
 
 ### Kashmir
 
