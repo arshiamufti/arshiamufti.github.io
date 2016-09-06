@@ -10,7 +10,7 @@ I study computer science at the [University of Waterloo](https://uwaterloo.ca/){
 
 ### Education and Technology
 
-Both technology and the current education systems have a long way to go before they become a safe and inclusive place for all. One of my goals in life is to develop educational tools that recognize the diversity in race, gender, ability, socio-economic status, and literacy in our societies and allow people with a variety of backgrounds and experiences to learn. I will be the chair of the [Waterloo Women in Computer Science Undergraduate Committee](http://wics.uwaterloo.ca/){:target="_blank"} for Spring 2016.
+Both technology and the current education systems have a long way to go before they become a safe and inclusive place for all. One of my goals in life is to develop educational tools that recognize the diversity in race, gender, ability, socio-economic status, and literacy in our societies and allow people with a variety of backgrounds and experiences to learn. I am an active member of the [Waterloo Women in Computer Science Undergraduate Committee](http://wics.uwaterloo.ca/){:target="_blank"}, and chaired the committee during Spring 2016.
 
 ### Reading and writing.
 
