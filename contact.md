@@ -5,4 +5,4 @@ tags: [about, Jekyll, theme, responsive]
 image:
   feature: soft-trees.jpg
 ---
-You can find me on [Medium](https://medium.com/@arshia__){:target="_blank"}, [Twitter](https://twitter.com/arshia__){:target="_blank"}, and [LinkedIn](https://ca.linkedin.com/in/arshiamufti){:target="_blank"} (don't) or [email me](mailto:amufti16@gmail.com){:target="_blank"}.
+I love [Twitter](https://twitter.com/arshia__){:target="_blank"}. You can find me on [LinkedIn](https://ca.linkedin.com/in/arshiamufti){:target="_blank"} (only if you absolutely **must**) or [email me](mailto:amufti16@gmail.com){:target="_blank"}. Also [Tumblr](http://arshiamufti.tumblr.com/):target="_blank"} for the Parks and Rec gifsets, [Goodreads](https://www.goodreads.com/user/show/30147550-arshia):target="_blank"} to know what I'm currently reading, [Medium](https://medium.com/@arshia__){:target="_blank"} for the sporadically recommended tech article, [Pinterest](https://www.pinterest.com/arshia_/) for my lofty home decor aspirations, and [Venmo](https://venmo.com/arshiamufti):target="_blank"} if you owe me money.
