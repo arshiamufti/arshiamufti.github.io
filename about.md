@@ -6,11 +6,11 @@ tags: [about, Jekyll, theme, responsive]
 image:
   feature: soft-trees.jpg
 ---
-I study computer science at the [University of Waterloo](https://uwaterloo.ca/){:target="_blank"}, in Waterloo, Canada. It is quite cold here. Here are some things that are important to me.
+I like extensively curated [Spotify playlists](https://open.spotify.com/user/arshia__), coffee, and functional programming. Usually all at once. I study computer science at the [University of Waterloo](https://uwaterloo.ca/){:target="_blank"}, in Waterloo, Canada. It is quite cold here. Here are some things that are important to me.
 
 ### Education and Technology
 
-Both technology and the current education systems have a long way to go before they become a safe and inclusive place for all. One of my goals in life is to develop educational tools that recognize the diversity in race, gender, ability, socio-economic status, and literacy in our societies and allow people with a variety of backgrounds and experiences to learn. I am an active member of the [Waterloo Women in Computer Science Undergraduate Committee](http://wics.uwaterloo.ca/){:target="_blank"}, and chaired the committee during Spring 2016.
+Both technology and the current education systems have a long way to go before they become a safe and inclusive place for all. One of my goals in life is to develop educational tools that recognize the diversity in race, gender, ability, socio-economic status, and literacy in our societies and allow people with a variety of backgrounds and experiences to learn. I chaired the [Waterloo Women in Computer Science Undergraduate Committee](http://wics.uwaterloo.ca/){:target="_blank"} in the summer of 2016, and continue to be an active member.
 
 ### Reading and writing.
 
@@ -27,4 +27,4 @@ This is where I was born. My family moved away when I was very young. I miss it 
 
 I also actively maintain a list of tech/non-tech things I want to accomplish in the next few months, serif fonts I like, and coffee shops around Kitchener-Waterloo I'd like to try out.
 
-[Current aesthetic](http://www.imdb.com/title/tt1988386/){:target="_blank"}.
+[Lady detectives are cool.](http://www.imdb.com/title/tt1988386/){:target="_blank"}.
