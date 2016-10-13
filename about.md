@@ -27,4 +27,4 @@ This is where I was born. My family moved away when I was very young. I miss it 
 
 I also actively maintain a list of tech/non-tech things I want to accomplish in the next few months, serif fonts I like, and coffee shops around Kitchener-Waterloo I'd like to try out.
 
-[Lady detectives are cool.](http://www.imdb.com/title/tt1988386/){:target="_blank"}.
+[Lady detectives are cool.](http://www.imdb.com/title/tt1988386/){:target="_blank"}
