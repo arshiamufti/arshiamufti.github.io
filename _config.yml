@@ -27,14 +27,6 @@ opengraph:
 links:
   - title: About
     url: /about
-  - title: Github
-    url: https://github.com/arshiamufti
-    external: true
-  - title: Resume
-    url: /resume.pdf
-    external: true
-  - title: Contact
-    url: /contact
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
